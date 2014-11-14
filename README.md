@@ -26,3 +26,8 @@ This is the file descriptions:
 | SchLib.SchLib   | Schematic library containing the connector component symbol | Altium Designer   |
 | mPCIe.ipt       | Drawing Mini PCI Express dimensions used as base            | Autodesk Inventor |
 | mPCIe.dxf       | Drawing Mini PCI Express dimensions used as base            | Autodesk Inventor |
+
+Screenshot
+==========
+
+![Screenshot](screenshot.jpg)
