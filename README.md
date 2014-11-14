@@ -4,6 +4,7 @@ Mini PCI Express Add-in card template
 This is an Altium Designer 13 Board layout template containing an empty Mini PCI Express PCB. 
 Both of footprint library and schematic symbol are included.
 A PCB project instancing the component is included too as template.
+Mini PCI Express dimensions and drawing were entered as `PCI Express Mini CEM Revision 1.2` states.
 
 Usage
 =====
