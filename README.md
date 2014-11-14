@@ -10,8 +10,8 @@ Usage
 
 You can use this content in your own design through one of following ways:
 
-  # Clone this project and continue your design.
-  # Take `PcbLib.pcblib` and `SchLib.schlib` to your design and instance the connector component.
+  1. Clone this project and continue your design.
+  2. Take `PcbLib.pcblib` and `SchLib.schlib` to your design and instance the connector component.
 
 Files
 =====
